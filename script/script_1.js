@@ -20,7 +20,7 @@
    function calculate(operand1, operand2, sign) {
 
     if (isNaN(number1) || isNaN(number2)) {
-        document.write('Нужно вводить числa. Начните сначала');
+        alert('Нужно вводить числa. Начните сначала');
         return;
     
 
